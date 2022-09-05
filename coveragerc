@@ -1,0 +1,5 @@
+[run]
+source = ./Projeto_banco
+
+[html]
+directory = coverage_relatorio_html
